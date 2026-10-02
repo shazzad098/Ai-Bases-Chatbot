@@ -1,0 +1,74 @@
+question,answer,question_bn,answer_bn
+"What payment methods do you accept?","We accept bKash, Nagad, bank transfer, cards, and cash on delivery where available.","কোন কোন পেমেন্ট পদ্ধতি গ্রহণ করেন?","আমরা bKash, Nagad, ব্যাংক ট্রান্সফার, কার্ড এবং যেখানে প্রযোজ্য সেখানে Cash on Delivery গ্রহণ করি।"
+
+"Can I change my delivery address?","Yes, you can change your delivery address before your order is shipped. Contact support as soon as possible.","ডেলিভারি ঠিকানা পরিবর্তন করতে পারব কি?","হ্যাঁ, অর্ডার শিপ হওয়ার আগে ডেলিভারি ঠিকানা পরিবর্তন করা যাবে। যত দ্রুত সম্ভব সাপোর্টে যোগাযোগ করুন।"
+
+"Can I change my order after placing it?","You can request changes before the order is processed. Contact support with your order ID.","অর্ডার দেওয়ার পর কি পরিবর্তন করা যাবে?","অর্ডার প্রসেস হওয়ার আগে পরিবর্তনের অনুরোধ করা যাবে। আপনার অর্ডার আইডি দিয়ে সাপোর্টে যোগাযোগ করুন।"
+
+"How can I contact customer support?","You can contact our customer support through live chat, phone, or email during business hours.","কাস্টমার সাপোর্টে কীভাবে যোগাযোগ করব?","ব্যবসায়িক সময়ের মধ্যে লাইভ চ্যাট, ফোন অথবা ইমেইলের মাধ্যমে কাস্টমার সাপোর্টে যোগাযোগ করতে পারবেন।"
+
+"What are your customer support hours?","Our customer support is available from 9:00 AM to 10:00 PM every day.","কাস্টমার সাপোর্ট কখন খোলা থাকে?","আমাদের কাস্টমার সাপোর্ট প্রতিদিন সকাল ৯টা থেকে রাত ১০টা পর্যন্ত খোলা থাকে।"
+
+"How can I check if a product is in stock?","The product page shows the current stock status. You can also ask me for availability.","কোনো পণ্য স্টকে আছে কি না কীভাবে জানব?","পণ্যের পেজে বর্তমান স্টক স্ট্যাটাস দেখা যাবে। চাইলে আমাকে পণ্যের নাম বলেও জানতে পারেন।"
+
+"What should I do if the product is out of stock?","You can check back later or contact support to ask about the expected restock date.","পণ্য স্টকে না থাকলে কী করব?","পণ্যটি পরে আবার চেক করতে পারেন অথবা সম্ভাব্য restock date জানতে সাপোর্টে যোগাযোগ করতে পারেন।"
+
+"Can I get a refund for a returned product?","Yes, eligible returned products can be refunded according to our return policy.","রিটার্ন করা পণ্যের টাকা ফেরত পাব কি?","হ্যাঁ, রিটার্ন পলিসি অনুযায়ী যোগ্য পণ্যের জন্য রিফান্ড পাওয়া যাবে।"
+
+"How long does a refund take?","Refunds are usually processed within 5-7 business days after the returned item is inspected and approved.","রিফান্ড পেতে কতদিন লাগে?","রিটার্ন করা পণ্য যাচাই ও অনুমোদনের পর সাধারণত ৫-৭ কার্যদিবসের মধ্যে রিফান্ড প্রসেস করা হয়।"
+
+"Can I exchange a product?","Yes, eligible products can be exchanged within 7 days if they are unused and in original condition.","পণ্য এক্সচেঞ্জ করা যাবে কি?","হ্যাঁ, অব্যবহৃত এবং মূল অবস্থায় থাকা যোগ্য পণ্য ৭ দিনের মধ্যে এক্সচেঞ্জ করা যাবে।"
+
+"What if I receive a damaged product?","Contact support within 24 hours of delivery and provide photos or videos of the damaged product.","নষ্ট বা ক্ষতিগ্রস্ত পণ্য পেলে কী করব?","ডেলিভারির ২৪ ঘণ্টার মধ্যে সাপোর্টে যোগাযোগ করুন এবং ক্ষতিগ্রস্ত পণ্যের ছবি বা ভিডিও পাঠান।"
+
+"What if I receive the wrong product?","Contact support immediately with your order ID and photos of the received product. We will assist with the replacement process.","ভুল পণ্য পেলে কী করব?","অর্ডার আইডি এবং পাওয়া পণ্যের ছবি দিয়ে দ্রুত সাপোর্টে যোগাযোগ করুন। আমরা রিপ্লেসমেন্ট প্রক্রিয়ায় সহায়তা করব।"
+
+"Do you deliver outside Dhaka?","Yes, we deliver to most locations across Bangladesh.","ঢাকার বাইরে কি ডেলিভারি দেন?","হ্যাঁ, আমরা বাংলাদেশের বেশিরভাগ এলাকায় ডেলিভারি দিয়ে থাকি।"
+
+"Do you provide express delivery?","Yes, express delivery may be available for selected locations and products at checkout.","এক্সপ্রেস ডেলিভারি আছে কি?","হ্যাঁ, নির্দিষ্ট কিছু এলাকা ও পণ্যের জন্য checkout-এ express delivery পাওয়া যেতে পারে।"
+
+"How much is the delivery charge?","Delivery charges depend on your location, order size, and delivery method. The applicable charge is shown at checkout.","ডেলিভারি চার্জ কত?","ডেলিভারি চার্জ আপনার লোকেশন, অর্ডারের পরিমাণ এবং ডেলিভারি পদ্ধতির ওপর নির্ভর করে। প্রযোজ্য চার্জ checkout-এ দেখানো হবে।"
+
+"Is there free delivery?","Free delivery may be available during selected promotions or for qualifying orders.","ফ্রি ডেলিভারি আছে কি?","নির্দিষ্ট প্রোমোশন বা যোগ্য অর্ডারের ক্ষেত্রে ফ্রি ডেলিভারি পাওয়া যেতে পারে।"
+
+"Can I track my delivery after shipping?","Yes, once your order is shipped, you can use the tracking information from your account or order confirmation.","অর্ডার শিপ হওয়ার পর কি ট্র্যাক করতে পারব?","হ্যাঁ, অর্ডার শিপ হওয়ার পর আপনার অ্যাকাউন্ট বা অর্ডার কনফার্মেশন থেকে tracking information ব্যবহার করে ট্র্যাক করতে পারবেন।"
+
+"Do I need an account to place an order?","An account may be required depending on the checkout process. Creating an account also makes it easier to track your orders.","অর্ডার করার জন্য কি অ্যাকাউন্ট লাগবে?","checkout প্রক্রিয়া অনুযায়ী অ্যাকাউন্ট প্রয়োজন হতে পারে। অ্যাকাউন্ট থাকলে অর্ডার ট্র্যাক করাও সহজ হয়।"
+
+"How do I create an account?","Click Sign Up, enter your required information, and complete the verification process if requested.","অ্যাকাউন্ট কীভাবে তৈরি করব?","Sign Up-এ ক্লিক করুন, প্রয়োজনীয় তথ্য দিন এবং প্রয়োজন হলে verification সম্পন্ন করুন।"
+
+"I forgot my password. What should I do?","Click Forgot Password on the login page and follow the instructions to reset your password.","পাসওয়ার্ড ভুলে গেলে কী করব?","লগইন পেজে Forgot Password-এ ক্লিক করুন এবং নির্দেশনা অনুসরণ করে নতুন পাসওয়ার্ড সেট করুন।"
+
+"How do I update my account information?","Go to Account > Profile and update the information you want to change.","অ্যাকাউন্টের তথ্য পরিবর্তন করব কীভাবে?","Account > Profile-এ যান এবং যে তথ্য পরিবর্তন করতে চান তা আপডেট করুন।"
+
+"Can I order multiple products together?","Yes, you can add multiple products to your cart and place them in a single order.","একসাথে একাধিক পণ্য অর্ডার করতে পারব কি?","হ্যাঁ, একাধিক পণ্য cart-এ যোগ করে একটি অর্ডারের মাধ্যমে কিনতে পারবেন।"
+
+"Can I use a promo code?","Yes, enter your valid promo code at checkout to apply the available discount.","প্রোমো কোড ব্যবহার করা যাবে কি?","হ্যাঁ, checkout-এর সময় valid promo code দিলে প্রযোজ্য discount পাওয়া যাবে।"
+
+"Why is my promo code not working?","The code may be expired, already used, or subject to specific product or order requirements. Check the promo terms or contact support.","আমার প্রোমো কোড কাজ করছে না কেন?","কোডটি expired হতে পারে, আগে ব্যবহার করা হয়ে থাকতে পারে অথবা নির্দিষ্ট পণ্য বা অর্ডারের শর্ত থাকতে পারে। Promo terms দেখুন অথবা সাপোর্টে যোগাযোগ করুন।"
+
+"Where can I find product details?","You can find product specifications, features, pricing, and availability on the product page.","পণ্যের বিস্তারিত তথ্য কোথায় পাব?","পণ্যের পেজে specifications, features, price এবং availability সম্পর্কিত তথ্য পাওয়া যাবে।"
+
+"Are product prices fixed?","Prices may change based on promotions, stock, or other business conditions. The current price is shown on the product page.","পণ্যের দাম কি নির্দিষ্ট?","প্রোমোশন, স্টক বা অন্যান্য ব্যবসায়িক কারণে দাম পরিবর্তিত হতে পারে। বর্তমান দাম পণ্যের পেজে দেখানো হয়।"
+
+"Do you have discounts?","Yes, discounts and special offers may be available on selected products or during promotional campaigns.","আপনাদের কি কোনো ডিসকাউন্ট আছে?","হ্যাঁ, নির্দিষ্ট পণ্য বা promotional campaign-এর সময় discount ও special offer থাকতে পারে।"
+
+"How do I know if an order has been confirmed?","After placing an order, you will receive an order confirmation with your order ID and order details.","আমার অর্ডার কনফার্ম হয়েছে কিনা কীভাবে জানব?","অর্ডার দেওয়ার পর order ID এবং অর্ডারের বিস্তারিত তথ্যসহ একটি confirmation পাবেন।"
+
+"What happens after I place an order?","We verify and process your order, prepare the products, and ship them to your delivery address.","অর্ডার করার পর কী হয়?","আমরা আপনার অর্ডার verify ও process করি, পণ্য প্রস্তুত করি এবং আপনার delivery address-এ পাঠিয়ে দিই।"
+
+"Can I cancel my order after 12 hours?","Orders may not be cancellable after processing or shipping. Contact support to check whether cancellation is still possible.","১২ ঘণ্টার পর কি অর্ডার বাতিল করা যাবে?","অর্ডার processing বা shipping হয়ে গেলে বাতিল করা নাও যেতে পারে। বাতিল করা সম্ভব কি না জানতে সাপোর্টে যোগাযোগ করুন।"
+
+"What happens if I miss the delivery?","The delivery partner may contact you again or attempt another delivery. Contact support if you need assistance.","ডেলিভারির সময় আমি না থাকলে কী হবে?","ডেলিভারি পার্টনার আপনার সাথে আবার যোগাযোগ করতে পারেন অথবা পুনরায় ডেলিভারির চেষ্টা করতে পারেন। প্রয়োজনে সাপোর্টে যোগাযোগ করুন।"
+
+"Can someone else receive my order?","Yes, another person may receive the order on your behalf if they can provide the required delivery information.","আমার পরিবর্তে অন্য কেউ কি অর্ডার গ্রহণ করতে পারবে?","হ্যাঁ, প্রয়োজনীয় delivery information দিতে পারলে অন্য কেউ আপনার হয়ে অর্ডার গ্রহণ করতে পারবেন।"
+
+"Is my personal information safe?","We take reasonable measures to protect your personal information and use it only for legitimate business and service purposes.","আমার ব্যক্তিগত তথ্য কি নিরাপদ?","আপনার ব্যক্তিগত তথ্য সুরক্ষার জন্য আমরা যুক্তিসঙ্গত নিরাপত্তা ব্যবস্থা গ্রহণ করি এবং বৈধ ব্যবসায়িক ও সেবা প্রদানের উদ্দেশ্যে তথ্য ব্যবহার করি।"
+
+"How can I report a problem with my order?","Contact customer support with your order ID and a short description of the problem. Include photos or videos when relevant.","অর্ডারে সমস্যা হলে কীভাবে জানাব?","অর্ডার আইডি এবং সমস্যার সংক্ষিপ্ত বিবরণ দিয়ে কাস্টমার সাপোর্টে যোগাযোগ করুন। প্রয়োজন হলে ছবি বা ভিডিও দিন।"
+
+"Can I get an invoice for my order?","Yes, you can request an invoice for your order through customer support or from your account if the option is available.","অর্ডারের ইনভয়েস কি পাব?","হ্যাঁ, customer support-এর মাধ্যমে অথবা option থাকলে আপনার account থেকে অর্ডারের invoice নিতে পারবেন।"
+
+"How can I reorder a previous product?","Go to Account > Orders, select your previous order, and choose the reorder option if available.","আগের কেনা পণ্য আবার কীভাবে অর্ডার করব?","Account > Orders-এ গিয়ে আগের অর্ডারটি নির্বাচন করুন এবং option থাকলে reorder করুন।"
+
+"What should I do if my order is delayed?","Check the latest tracking status first. If there is no update or the delivery is significantly delayed, contact support with your order ID.","অর্ডার দেরি হলে কী করব?","প্রথমে সর্বশেষ tracking status দেখুন। কোনো update না থাকলে বা অনেক দেরি হলে order ID দিয়ে সাপোর্টে যোগাযোগ করুন।"

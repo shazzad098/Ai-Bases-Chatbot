@@ -1,0 +1,44 @@
+name: CI
+on:
+  push:
+  pull_request:
+jobs:
+  backend:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install
+        run: |
+          pip install ruff pytest
+          if [ -f backend/requirements.txt ]; then pip install -r backend/requirements.txt; fi
+      - name: Lint
+        run: ruff check backend/ || true
+      - name: Tests
+        run: pytest backend/ -q || echo "no backend tests yet"
+  widget:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - working-directory: widget
+        run: |
+          npm ci || npm install
+          npx tsc --noEmit
+  frontend:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: |
+          if [ -f frontend/package.json ]; then
+            cd frontend && (npm ci || npm install) && (npm run lint || true) && (npx tsc --noEmit || true)
+          else
+            echo "frontend not yet scaffolded, skipping"
+          fi

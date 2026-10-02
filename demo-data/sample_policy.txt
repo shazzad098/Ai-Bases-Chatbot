@@ -1,0 +1,12 @@
+NicheDesk Sample Store Policy (EN + BN)
+
+RETURNS (EN): Unused items in original packaging may be returned within 7 days of delivery for a full refund or exchange. Contact support with your order ID to start a return.
+RETURNS (BN): ডেলিভারির ৭ দিনের মধ্যে অব্যবহৃত পণ্য মূল প্যাকেজিংসহ ফেরত দিয়ে সম্পূর্ণ রিফান্ড বা এক্সচেঞ্জ নেওয়া যাবে।
+
+DELIVERY (EN): Inside Dhaka 1-2 working days (60 BDT), outside Dhaka 3-5 working days (120 BDT). Free delivery on orders over 2000 BDT.
+DELIVERY (BN): ঢাকার ভিতরে ১-২ কর্মদিবস (৬০ টাকা), ঢাকার বাইরে ৩-৫ কর্মদিবস (১২০ টাকা)। ২০০০ টাকার বেশি অর্ডারে ডেলিভারি ফ্রি।
+
+ADMISSIONS (EN): Admission requires SSC+HSC transcripts (min GPA 3.0), 2 photos, NID/birth certificate copy. Office hours Sat-Thu 9am-5pm.
+ADMISSIONS (BN): ভর্তির জন্য SSC+HSC ট্রান্সক্রিপ্ট (সর্বনিম্ন GPA ৩.০), ২ কপি ছবি, NID/জন্মসনদের কপি লাগবে। অফিস সময় শনি-বৃহস্পতি সকাল ৯টা-বিকাল ৫টা।
+
+Use this file to test knowledge upload → chunking → retrieval in under 2 minutes.

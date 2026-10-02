@@ -1,0 +1,55 @@
+/* NicheDesk widget styles — injected inside Shadow DOM only, no global leakage. */
+:host { all: initial; font-family: Inter, "Hind Siliguri", "Noto Sans Bengali", system-ui, sans-serif; }
+.nd-launcher { position: fixed; width: 56px; height: 56px; border-radius: 50%; border: none; cursor: pointer;
+  display: flex; align-items: center; justify-content: center; font-size: 26px; color: #fff;
+  box-shadow: 0 8px 24px rgba(0,0,0,.18); z-index: 2147483000; }
+.nd-launcher.right { right: 20px; bottom: 20px; }
+.nd-launcher.left { left: 20px; bottom: 20px; }
+.nd-teaser { position: fixed; bottom: 84px; max-width: 240px; background: #fff; color: #0f172a;
+  border-radius: 12px; padding: 8px 12px; font-size: 13px; box-shadow: 0 8px 24px rgba(0,0,0,.12); z-index: 2147483000; }
+.nd-teaser.right { right: 20px; } .nd-teaser.left { left: 20px; }
+.nd-window { position: fixed; bottom: 88px; width: 380px; max-width: calc(100vw - 32px); height: 600px; max-height: calc(100vh - 120px);
+  background: #fff; border-radius: 16px; box-shadow: 0 8px 24px rgba(0,0,0,.18); display: flex; flex-direction: column;
+  overflow: hidden; z-index: 2147483001; }
+.nd-window.right { right: 20px; } .nd-window.left { left: 20px; }
+.nd-window.hidden { display: none; }
+@media (max-width: 480px) {
+  .nd-window { inset: 0; width: 100%; max-width: 100%; height: 100%; max-height: 100%; border-radius: 0; }
+}
+.nd-header { display: flex; align-items: center; gap: 10px; padding: 12px 14px; background: var(--nd-brand, #4f46e5); color: #fff; }
+.nd-avatar { width: 32px; height: 32px; border-radius: 50%; background: rgba(255,255,255,.25); display: flex; align-items: center; justify-content: center; font-weight: 600; }
+.nd-title { font-size: 14px; font-weight: 600; line-height: 1.2; }
+.nd-status { font-size: 11px; opacity: .85; }
+.nd-close { margin-left: auto; background: transparent; border: none; color: #fff; font-size: 18px; cursor: pointer; min-width: 44px; min-height: 44px; }
+.nd-body { flex: 1; overflow-y: auto; padding: 12px; display: flex; flex-direction: column; gap: 8px; background: #f8fafc; }
+.nd-msg { max-width: 85%; padding: 8px 12px; border-radius: 12px; font-size: 14px; line-height: 1.5; word-break: break-word; }
+.nd-msg.user { align-self: flex-end; background: var(--nd-brand, #4f46e5); color: #fff; border-bottom-right-radius: 4px; }
+.nd-msg.bot { align-self: flex-start; background: #fff; color: #0f172a; border: 1px solid #e2e8f0; border-bottom-left-radius: 4px; }
+.nd-msg .nd-time { display: none; font-size: 11px; color: #64748b; margin-top: 4px; }
+.nd-msg:hover .nd-time { display: block; }
+.nd-sources { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 6px; }
+.nd-src { font-size: 11px; background: #eef2ff; color: #4338ca; border-radius: 999px; padding: 2px 8px; text-decoration: none; }
+.nd-quick { display: flex; flex-wrap: wrap; gap: 6px; padding: 8px 12px 0; }
+.nd-chip { border: 1px solid var(--nd-brand, #4f46e5); color: var(--nd-brand, #4f46e5); background: #fff;
+  border-radius: 999px; padding: 6px 12px; font-size: 13px; cursor: pointer; min-height: 32px; }
+.nd-typing { display: flex; gap: 4px; padding: 10px 12px; background: #fff; border: 1px solid #e2e8f0; border-radius: 12px; align-self: flex-start; }
+.nd-dot { width: 7px; height: 7px; border-radius: 50%; background: #94a3b8; }
+@media (prefers-reduced-motion: no-preference) {
+  .nd-dot { animation: nd-blink 1.2s infinite; }
+  .nd-dot:nth-child(2) { animation-delay: .2s; } .nd-dot:nth-child(3) { animation-delay: .4s; }
+}
+@keyframes nd-blink { 0%, 80%, 100% { opacity: .3; } 40% { opacity: 1; } }
+.nd-footer { padding: 10px 12px; border-top: 1px solid #e2e8f0; background: #fff; }
+.nd-inputrow { display: flex; gap: 8px; align-items: flex-end; }
+.nd-input { flex: 1; resize: none; border: 1px solid #e2e8f0; border-radius: 8px; padding: 8px 10px;
+  font-size: 14px; font-family: inherit; max-height: 120px; }
+.nd-input:focus { outline: 2px solid var(--nd-brand, #4f46e5); }
+.nd-send { background: var(--nd-brand, #4f46e5); color: #fff; border: none; border-radius: 8px;
+  min-width: 44px; min-height: 44px; cursor: pointer; font-size: 16px; }
+.nd-meta { display: flex; justify-content: space-between; align-items: center; margin-top: 6px; }
+.nd-human { background: none; border: none; color: var(--nd-brand, #4f46e5); font-size: 12px; cursor: pointer; padding: 4px; }
+.nd-ai { font-size: 11px; color: #64748b; }
+.nd-error { background: #fef2f2; color: #991b1b; border: 1px solid #fecaca; border-radius: 8px; padding: 8px 10px; font-size: 13px; }
+.nd-error button { margin-left: 8px; }
+.nd-offline-form input, .nd-offline-form textarea { width: 100%; box-sizing: border-box; margin-bottom: 6px;
+  border: 1px solid #e2e8f0; border-radius: 8px; padding: 8px; font-size: 13px; font-family: inherit; }
